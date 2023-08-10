@@ -1,6 +1,5 @@
 - 👋 Hellloooooo, my name is James Pyle 
-- I am a computer science graduate and I looking for an entry level position as a java developer
-- 🌱 I’m currently working on a card game called Swipe It! to keep the skills sharp :) 
+- I am a fullstack developer/consultant always looking for new connections
 - 📫 How to reach me - James.c.pyle@gmail.com
 
 <!---
